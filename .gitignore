@@ -1,0 +1,3 @@
+env/*
+flaskEnv.py
+spotipyEnv.py
